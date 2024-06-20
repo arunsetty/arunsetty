@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG]([typing_svg_url])](https://git.io/typing-svg)
+[![Typing SVG](typing_svg_url)](https://git.io/typing-svg)
 
 [line1]: [This+is+Arun]
 [line2]: [I+Make+Things]
